@@ -53,7 +53,7 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -105,8 +105,6 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 ### Current Situation  
 **👉  Actively seeking a Job ⚡**  
 
-
-</td><td valign="top" width="50%">
 
 
 
