@@ -45,6 +45,10 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 - 👓 Focus: User-Centered  
   
 
+### :zap: Recent activity:
+<!--RECENT_ACTIVITY:start_-->
+<!--RECENT_ACTIVITY:last_update-->
+
 ### Professional Aspirations  
 - 💻 Current rol: UI/UX Designer  
   
@@ -77,9 +81,6 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 
 <br/>  
 
-### :zap: Recent activity:
-<!--RECENT_ACTIVITY:start_-->
-<!--RECENT_ACTIVITY:last_update-->
 
 ## Languages and Tools  
 <div align="center">  
