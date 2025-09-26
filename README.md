@@ -78,9 +78,8 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 <br/>  
 
 ### :zap: Recent activity:
-<!--START_SECTION:activity_-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start_-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Languages and Tools  
 <div align="center">  
