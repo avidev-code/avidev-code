@@ -14,8 +14,6 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 
 ### @avidevcode | Crafting digital narratives, One Pixel at a Time  
 J.D. Albarrán - UI/UX Designer & Front-End Developer Student
@@ -26,22 +24,16 @@ I'm currently focused on mastering the fundamentals of HTML, CSS, and JavaScript
 
 I have a strong background in visual design and my stack includes Figma, Illustrator, and Sketch. I work professionally with Git and GitHub, implementing best practices like version control and branch management.
 
-My long-term aspiration is to become a specialist in Data Visualization and UI/UX components. I'm fascinated by how data can be transformed into compelling visual stories. In the future, I plan to explore technologies like TypeScript and Python to deepen my understanding of data-driven design.  
-  
+My long-term aspiration is to become a specialist in Data Visualization and UI/UX components. I'm fascinated by how data can be transformed into compelling visual stories. In the future, I plan to explore technologies like TypeScript and Python to deepen my understanding of data-driven design. 
 
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-
-
 ### Currently working  
 - **🔭 I’m currently working on [Portfolio Platzi Theme](https://github.com/avidev-code/portfolio-platzi-theme)**  
   
-
-
 
 ### Key Skills  
 - 💻 UI/UX Designer  
@@ -52,8 +44,6 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 
 - 👓 Focus: User-Centered  
   
-
-
 
 ### Professional Aspirations  
 - 💻 Current rol: UI/UX Designer  
@@ -69,7 +59,6 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
   
 
 
-
 ### Tools & Processes  
 - 💭 Process: Design Thinking  
   
@@ -80,18 +69,18 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 - Languages: HTML - CSS - Javascript  
   
 
-
-
 ### Current Situation  
 **👉  Actively seeking a Job ⚡**  
-
-
 
 
 </td></tr></table>  
 
 <br/>  
 
+### :zap: Recent activity:
+<!--START_SECTION:activity_-->
+
+<!--END_SECTION:activity-->
 
 ## Languages and Tools  
 <div align="center">  
@@ -109,7 +98,6 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -123,7 +111,6 @@ My long-term aspiration is to become a specialist in Data Visualization and UI/U
 
 <br/>  
 
-  
 
 <br/>  
 
